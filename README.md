@@ -11,10 +11,10 @@ Neste repositório, pretendo compartilhar um pouco do que venho aprendendo e apl
 - Fundamentos de Testes
 - Testes Manuais
 - Metodologia BDD
-- Testes de API (Postman)
+- Testes de API - Postman
 - Banco de Dados (SQL básico)
   
-# Ferramentas
+# Ferramentas Utilizadas
 
 - VS code
 - Node.js
@@ -26,4 +26,5 @@ Neste repositório, pretendo compartilhar um pouco do que venho aprendendo e apl
 # Estudos em Andamento
 
 - [Cypress](https://github.com/GabriellePreis/cypress-express-estudo)
+- [Postman] (https://www.udemy.com/certificate/UC-454d0cf2-0fab-4d2e-b4e3-be4e5bdc59d4/)
 
