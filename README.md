@@ -25,4 +25,5 @@ Neste repositório, pretendo compartilhar um pouco do que venho aprendendo e apl
   
 # Estudos em Andamento
 
-- Cypress
+- Cypress: (https://github.com/user-attachments/assets/7341e995-7965-414a-9ccc-a52a4d7c829c)
+
