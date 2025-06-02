@@ -24,7 +24,7 @@ Neste repositório, pretendo compartilhar um pouco do que venho aprendendo e apl
 - MySQL
 - [Notion](https://climbing-beluga-e7c.notion.site/Organiza-o-de-Estudos-Gabrielle-2059186ed89e80bc96eee218a531e0ad)
   
-# Estudos
+# Cursos
 
 - [Cypress](https://github.com/GabriellePreis/cypress-express-estudo)
 - [Postman](https://www.udemy.com/certificate/UC-454d0cf2-0fab-4d2e-b4e3-be4e5bdc59d4/)
