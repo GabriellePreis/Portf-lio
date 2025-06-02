@@ -22,7 +22,7 @@ Neste repositório, pretendo compartilhar um pouco do que venho aprendendo e apl
 - Postman
 - Git
 - MySQL
-- Notion
+- [Notion](https://climbing-beluga-e7c.notion.site/Organiza-o-de-Estudos-Gabrielle-2059186ed89e80bc96eee218a531e0ad)
   
 # Estudos
 
