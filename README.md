@@ -30,7 +30,7 @@ Neste repositório, pretendo compartilhar um pouco do que venho aprendendo e apl
 
 # Projetos de estudos
 
-- Site de Reservas (https://github.com/GabriellePreis/ProjetoReservasHotel)
-- Site de Tarefas (https://github.com/GabriellePreis/ProjetoMarkL)
-- DevOps (https://github.com/GabriellePreis/ImersaoDevops)
+- [Site de Reservas](https://github.com/GabriellePreis/ProjetoReservasHotel)
+- [Site de Tarefas](https://github.com/GabriellePreis/ProjetoMarkL)
+- [DevOps](https://github.com/GabriellePreis/ImersaoDevops)
 
