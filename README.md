@@ -8,12 +8,11 @@ Neste repositório, pretendo compartilhar um pouco do que venho aprendendo e apl
 
 # Conhecimentos 
 
-- Fundamentos de Testes
-- Testes Manuais
-- Metodologia BDD
-- Metodologias Ágeis
+- Testes manuais (funcional, regressão, exploratório);
+- Metodologia BDD (Gherkin)
+- Metodologias Ágeis (Scrum e Kanban)
 - Testes de API
-- Banco de Dados (SQL básico)
+- Banco de Dados (SQL)
   
 # Ferramentas Utilizadas
 
@@ -28,4 +27,10 @@ Neste repositório, pretendo compartilhar um pouco do que venho aprendendo e apl
 
 - [Cypress](https://github.com/GabriellePreis/cypress-express-estudo)
 - [Postman](https://www.udemy.com/certificate/UC-454d0cf2-0fab-4d2e-b4e3-be4e5bdc59d4/)
+
+# Projetos de estudos
+
+- Site de Reservas (https://github.com/GabriellePreis/ProjetoReservasHotel)
+- Site de Tarefas (https://github.com/GabriellePreis/ProjetoMarkL)
+- DevOps (https://github.com/GabriellePreis/ImersaoDevops)
 
