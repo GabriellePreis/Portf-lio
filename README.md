@@ -8,11 +8,12 @@ Neste repositório, pretendo compartilhar um pouco do que venho aprendendo e apl
 
 # Conhecimentos 
 
-- Testes manuais (funcional, regressão, exploratório);
+- Testes manuais (funcional, regressão, exploratório)
 - Metodologia BDD (Gherkin)
 - Metodologias Ágeis (Scrum e Kanban)
 - Testes de API
 - Banco de Dados (SQL)
+- DevOps (em evolução)
   
 # Ferramentas Utilizadas
 
@@ -21,6 +22,8 @@ Neste repositório, pretendo compartilhar um pouco do que venho aprendendo e apl
 - Postman
 - Git
 - MySQL
+- Cypress
+- Docker
 - [Notion](https://climbing-beluga-e7c.notion.site/Organiza-o-de-Estudos-Gabrielle-2059186ed89e80bc96eee218a531e0ad)
   
 # Cursos
