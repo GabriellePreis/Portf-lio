@@ -2,7 +2,7 @@
 
 
 Olá, sou a Gabrielle Preis.
-Especialista em Gestão de TI (IFSC) e Founder da Elle Ops. Meu foco é desenhar e implementar arquiteturas operacionais que escalam negócios através de tecnologia e automação inteligente.
+Especialista em Gestão de TI e Founder da Elle Ops. Meu foco é desenhar e implementar arquiteturas operacionais que escalam negócios através de tecnologia e automação inteligente.
 Utilizo ferramentas para transformar operações manuais em ecossistemas inteligentes, seguros e eficientes.
 
   
